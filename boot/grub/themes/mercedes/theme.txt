@@ -1,0 +1,4 @@
+title-text: ""
+desktop-image: "background.png"
+desktop-color: "#000000"
+}
